@@ -1,0 +1,56 @@
+body {
+     background-color: black;
+}
+header h1{
+     color: orange;
+     text-align: center;
+     border: 5px solid rgb(255, 123, 0);
+     border-radius: 10px;
+}
+header {
+     background-color: black;
+     padding: 40px;
+}
+header {
+     text-align: center;
+     color: orange;
+}
+header a {
+     color: orange;
+     text-align: center;
+     border: 2px solid rgb(255, 123, 0);
+     border-radius: 10px;
+     padding: 3px;
+     text-decoration: transparent;
+     margin: 4px;
+}
+main {
+     text-align: center;
+     color: orange;
+}
+main img {
+     width: 140px;
+}
+main a {
+     color: orange;
+     text-decoration: transparent;
+     padding: 60px;
+     margin: 40px;
+     text-align: center;
+}
+main h2 {
+     color: orangered;
+     
+}
+footer {
+     color: orange;
+     text-align: center;
+     border: 5px solid rgb(255, 123, 0);
+     border-radius: 10px;
+}
+footer a {
+     color: rgb(255, 123, 0);
+     text-decoration: transparent;
+}
+    /* text-decoration: transparent;
+    border-radius: 10px; */
